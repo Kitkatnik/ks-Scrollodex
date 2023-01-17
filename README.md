@@ -8,9 +8,6 @@
 
 <br/>
 
-[![GitHub License](https://img.shields.io/github/license/wwcodecolorado/scrollodex)](https://github.com/wwcodecolorado/scrollodex/blob/master/LICENSE)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9b72a143-93e6-4ae2-a065-5b72ca57b676/deploy-status)](https://app.netlify.com/sites/scrollodex/deploys)
-
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge) ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge) ![styled-components Badge](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 
 </div>
